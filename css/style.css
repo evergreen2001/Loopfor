@@ -3,12 +3,12 @@
 } */
 
 body {
-  background: rgb(209, 204, 204);
+  background: rgba(34, 224, 34, 0.598);
   color: #fff;
 }
 
 .navbar {
-  border-bottom:blue 3px solid;
+  border-bottom:rgb(34, 255, 0) 3px solid;
   opacity: 0.9;
 }
 
